@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pizarra_cliente/static/css/main.47707e32.chunk.css",
+    "main.js": "/pizarra_cliente/static/js/main.05480148.chunk.js",
+    "main.js.map": "/pizarra_cliente/static/js/main.05480148.chunk.js.map",
+    "runtime-main.js": "/pizarra_cliente/static/js/runtime-main.c225bd13.js",
+    "runtime-main.js.map": "/pizarra_cliente/static/js/runtime-main.c225bd13.js.map",
+    "static/js/2.151e4272.chunk.js": "/pizarra_cliente/static/js/2.151e4272.chunk.js",
+    "static/js/2.151e4272.chunk.js.map": "/pizarra_cliente/static/js/2.151e4272.chunk.js.map",
+    "static/js/3.292004b0.chunk.js": "/pizarra_cliente/static/js/3.292004b0.chunk.js",
+    "static/js/3.292004b0.chunk.js.map": "/pizarra_cliente/static/js/3.292004b0.chunk.js.map",
+    "index.html": "/pizarra_cliente/index.html",
+    "static/css/main.47707e32.chunk.css.map": "/pizarra_cliente/static/css/main.47707e32.chunk.css.map",
+    "static/js/2.151e4272.chunk.js.LICENSE.txt": "/pizarra_cliente/static/js/2.151e4272.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c225bd13.js",
+    "static/js/2.151e4272.chunk.js",
+    "static/css/main.47707e32.chunk.css",
+    "static/js/main.05480148.chunk.js"
+  ]
+}
